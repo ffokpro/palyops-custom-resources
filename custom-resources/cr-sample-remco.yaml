@@ -5,4 +5,4 @@ metadata:
     app: playops
   name: remco-sample
 spec:
-  helloName: remco
+  hellnName: remco

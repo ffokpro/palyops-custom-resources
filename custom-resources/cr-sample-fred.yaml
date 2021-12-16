@@ -5,4 +5,4 @@ metadata:
     app: playops
   name: fred-sample
 spec:
-  helloName: fred
+  helloname: fred
