@@ -1,0 +1,6 @@
+apiVersion: cache.edgedeploy.ffok.io/v1alpha1
+kind: Playops
+metadata:
+  name: fred-sample
+spec:
+  helloName: fred
